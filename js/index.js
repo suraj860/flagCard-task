@@ -41,7 +41,7 @@ let obj = [
 
 
 function countryData(obj){
-    for(i=0;i,5;i++){
+    for(i=0;i<obj.length;i++){
 const mainParent = document.createElement("div");
 mainParent.setAttribute("class", "container");
 
